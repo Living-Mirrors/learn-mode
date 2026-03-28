@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://livingmirrors.ai">
-    <img src="https://livingmirrors.ai/favicon-512.png" alt="Living Mirrors" width="48">
+    <img src="https://avatars.githubusercontent.com/u/271476247?v=4" alt="Living Mirrors" width="48">
   </a>
 </p>
 
