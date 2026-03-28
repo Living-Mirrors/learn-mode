@@ -178,6 +178,26 @@ Full origin story: [ORIGIN.md](ORIGIN.md)
 | [layers/](layers/) | Six output layers, one file each |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute |
 | [LICENSE](LICENSE) | MIT License |
+| [research/](research/) | Complete academic research archive |
+
+---
+
+## Research Foundation
+
+Learn Mode is grounded in 140+ years of cognitive science research spanning five independent programs:
+
+1. **Memory Encoding** (Paivio, Craik & Lockhart) -- how information enters long-term memory through dual coding and depth of processing
+2. **Emotional Modulation** (McGaugh) -- the amygdala-hippocampus axis that physically modulates memory consolidation
+3. **Retrieval Science** (Bjork, Roediger, Karpicke, Ebbinghaus) -- the testing effect, spacing effect, and generation effect
+4. **Multimedia Cognition** (Mayer) -- dual-channel processing principles for instructional design
+5. **Metacognition** (Dunning & Kruger, Bjork) -- why self-report fails and the illusion of learning
+
+The [research/](research/) directory contains:
+- **[FRAMEWORK.md](research/FRAMEWORK.md)** -- Five research programs mapped and analyzed
+- **[SYNTHESIS.md](research/SYNTHESIS.md)** -- How independent programs converge on a unified model
+- **[ENCODING-STACK.md](research/ENCODING-STACK.md)** -- Empirical evidence for each encoding level (Receive 20% through Teach 100%)
+- **[DESIGN-DECISIONS.md](research/DESIGN-DECISIONS.md)** -- Every spec choice traced to evidence
+- **[15 paper summaries](research/papers/)** -- Individual academic summaries with full APA citations
 
 ---
 
