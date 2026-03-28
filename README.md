@@ -4,6 +4,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Living-Mirrors/learn-mode/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
+  <a href="https://github.com/Living-Mirrors/learn-mode/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="Version 1.0.0"></a>
+  <img src="https://img.shields.io/badge/maintained-yes-green.svg" alt="Maintained">
+  <a href="https://github.com/Living-Mirrors/learn-mode/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions Welcome"></a>
+</p>
+
 # Learn Mode
 
 *The Learning Axis*
