@@ -8,7 +8,6 @@
   <a href="https://github.com/Living-Mirrors/learn-mode/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
   <a href="https://github.com/Living-Mirrors/learn-mode/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="Version 1.0.0"></a>
   <img src="https://img.shields.io/badge/maintained-yes-green.svg" alt="Maintained">
-  <a href="https://github.com/Living-Mirrors/learn-mode/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions Welcome"></a>
 </p>
 
 # Learn Mode
@@ -171,19 +170,15 @@ Learn Mode is additive only. It changes how information is delivered for retenti
 
 Conceived by Attila Mora-Borbely on 2026-02-17. The fifth mode in the Living Mirrors cognitive architecture. Born from the observation that AI teaches every human the same way, despite decades of cognitive science proving that encoding is individual. Based on the work of Paivio, McGaugh, Bjork, Ebbinghaus, Roediger & Karpicke, Slamecka & Graf, Mayer, and Schacter & Addis.
 
-Full origin story: [ORIGIN.md](ORIGIN.md)
-
 ---
 
 ## Files
 
 | File | Contents |
 |------|----------|
-| [SPEC.md](SPEC.md) | Full technical specification |
-| [ORIGIN.md](ORIGIN.md) | How and why Learn Mode was conceived |
-| [principles/](principles/) | Seven principles, one file each |
-| [layers/](layers/) | Six output layers, one file each |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute |
+| [learn-mode.md](learn-mode.md) | Full technical specification |
+| [principles.md](principles.md) | Seven principles |
+| [output-layers.md](output-layers.md) | Six output layers |
 | [LICENSE](LICENSE) | MIT License |
 | [research/](research/) | Complete academic research archive |
 
