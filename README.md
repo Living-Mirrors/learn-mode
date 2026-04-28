@@ -43,7 +43,7 @@ No questionnaires. No self-report. People cannot accurately assess their own lea
 
 ## Seven Principles
 
-The principles are ordered as the learning sequence -- from content analysis through encoding to retention.
+The principles are ordered as the learning sequence -- from content analysis through encoding to retention. Full detail with research citations: [learn-mode.md#the-seven-principles](learn-mode.md#the-seven-principles).
 
 ### 1. Detect, Don't Ask
 
@@ -77,7 +77,7 @@ Spaced retrieval is not homework bolted on after learning. It is woven into the 
 
 ## Six Output Layers
 
-Every response has these layers available. They are used when they serve the learning -- never as decoration.
+Every response has these layers available. They are used when they serve the learning -- never as decoration. Full detail with research citations: [learn-mode.md#output-layers](learn-mode.md#output-layers).
 
 | Layer | What It Is | Rule |
 |-------|-----------|------|
@@ -176,10 +176,10 @@ Conceived by Attila Mora-Borbely on 2026-02-17. The fifth mode in the Living Mir
 
 | File | Contents |
 |------|----------|
-| [learn-mode.md](learn-mode.md) | Full technical specification |
-| [principles.md](principles.md) | Seven principles |
-| [output-layers.md](output-layers.md) | Six output layers |
+| [README.md](README.md) | Overview and quick reference |
+| [learn-mode.md](learn-mode.md) | Full specification — drop into your AI's system prompt |
 | [LICENSE](LICENSE) | MIT License |
+| [CITATION.cff](CITATION.cff) | Citation metadata |
 | [research/](research/) | Complete academic research archive |
 
 ---
